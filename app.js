@@ -30,6 +30,8 @@ const reviews = [
   },
 ];
 
+/* source: https://github.com/john-smilga/javascript-basic-projects */
+
 // select items
 const img = document.querySelector("#person-img");
 const author = document.querySelector("#author");
