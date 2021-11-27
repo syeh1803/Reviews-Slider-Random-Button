@@ -16,6 +16,6 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- Vanilla CSS
+- Semantic HTML5 markup (source: https://github.com/john-smilga/javascript-basic-projects)
+- Vanilla CSS (source: https://github.com/john-smilga/javascript-basic-projects)
 - JavaScript
